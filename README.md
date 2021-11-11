@@ -1,4 +1,5 @@
 ### 배움을 즐기는 개발자, 이민지입니다.
+<br>
 
 ## 💁🏻 <span style="color:green">About Me</span>
 
