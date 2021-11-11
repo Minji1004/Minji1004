@@ -81,14 +81,18 @@
 <br>
 
 ## 📄 <span style="color:green">Education</span>
-### 국비지원교육 수료: JAVA를 활용한 웹 응용 SW 개발  
-- 기간: 2018-12-03 ~ 2019-05-16
-- JAVA, SQL, JSP/Servlet, Spring MVC, HTML5, CSS3, JS 배움
-
 ### 온라인 강의 수강
 - 수료
   - 스프링 핵심 원리 (김영한) - 기본편
   - 스프링 입문 (김영한) - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술
+
+### 국비지원교육 수료: JAVA를 활용한 웹 응용 SW 개발  
+- 기간: 2018-12-03 ~ 2019-05-16
+- JAVA, SQL, JSP/Servlet, Spring MVC, HTML5, CSS3, JS 배움
+
+### 인천대학교 에너지화학공학과
+- 기간: 2012.03 ~ 2016.02
+- 수석 졸업
 
 <br>
 
