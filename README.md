@@ -11,12 +11,14 @@
 기억보단 기록하는 것을 좋아합니다.  
 혼자보단 같이 일하는 게 즐겁습니다.  
 
+가장 좋아하는 말은 'Divide and Conquer' 입니다. 
+
 ### Contact & Channel
-- **Email** | energizermj104@gmail.com
+- **Email**  | energizermj104@gmail.com
 
 - **Github** | [https://github.com/Minji1004](https://github.com/Minji1004)
 
-- **Blog** | [https://velog.io/@minji104](https://velog.io/@minji104)
+- **Blog**   | [https://velog.io/@minji104](https://velog.io/@minji104)
 
 <br>
 
