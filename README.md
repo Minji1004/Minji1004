@@ -14,11 +14,13 @@
 가장 좋아하는 말은 'Divide and Conquer' 입니다. 
 
 ### Contact & Channel
-- **Email**  | energizermj104@gmail.com
+- **Email** | energizermj104@gmail.com
 
 - **Github** | [https://github.com/Minji1004](https://github.com/Minji1004)
 
-- **Blog**   | [https://velog.io/@minji104](https://velog.io/@minji104)
+- **Blog** | [https://velog.io/@minji104](https://velog.io/@minji104)
+
+- **LinkedIn** | [https://www.linkedin.com/in/minji***](https://www.linkedin.com/in/minji-lee-a58015191/)
 
 <br>
 
