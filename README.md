@@ -31,7 +31,6 @@
 - AWS - EC2, S3, RDS, CodeDeploy
 - MSSQL, Oracle
 - GitLab CI/CD
-- Tomcat
 
 ### Frontend
 - HTML5, CSS3 
