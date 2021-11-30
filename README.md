@@ -14,7 +14,7 @@
 가장 좋아하는 말은 'Divide and Conquer' 입니다. 
 
 ### Contact & Channel
-- **Email** | energizermj104@gmail.com
+- **Email** | dev.leeminji@gmail.com
 
 - **Github** | [https://github.com/Minji1004](https://github.com/Minji1004)
 
